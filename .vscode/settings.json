@@ -4,25 +4,6 @@
     "${workspaceFolder}/__pypackages__/3.10/lib"
   ],
   "python.analysis.autoImportCompletions": true,
-  "workbench.colorCustomizations": {
-    "activityBar.activeBackground": "#5c00df",
-    "activityBar.background": "#5c00df",
-    "activityBar.foreground": "#e7e7e7",
-    "activityBar.inactiveForeground": "#e7e7e799",
-    "activityBarBadge.background": "#df5c00",
-    "activityBarBadge.foreground": "#e7e7e7",
-    "commandCenter.border": "#e7e7e799",
-    "sash.hoverBorder": "#5c00df",
-    "statusBar.background": "#4700ac",
-    "statusBar.foreground": "#e7e7e7",
-    "statusBarItem.hoverBackground": "#5c00df",
-    "statusBarItem.remoteBackground": "#4700ac",
-    "statusBarItem.remoteForeground": "#e7e7e7",
-    "titleBar.activeBackground": "#4700ac",
-    "titleBar.activeForeground": "#e7e7e7",
-    "titleBar.inactiveBackground": "#4700ac99",
-    "titleBar.inactiveForeground": "#e7e7e799"
-  },
   "peacock.color": "4700ac",
   "[python]": {
     "editor.defaultFormatter": "charliermarsh.ruff"
